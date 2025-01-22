@@ -1,0 +1,33 @@
+[submodule "EKS-Workshop-1"]
+	path = EKS-Workshop-1
+	url = https://github.com/longthg-workshops/EKS-Workshop-1
+[submodule "EKS-Workshop-2"]
+	path = EKS-Workshop-2
+	url = https://github.com/longthg-workshops/EKS-Workshop-2
+[submodule "EKS-Workshop-3"]
+	path = EKS-Workshop-3
+	url = https://github.com/longthg-workshops/EKS-Workshop-3
+[submodule "EKS-Workshop-4"]
+	path = EKS-Workshop-4
+	url = https://github.com/longthg-workshops/EKS-Workshop-4
+[submodule "EKS-Workshop-5"]
+	path = EKS-Workshop-5
+	url = https://github.com/longthg-workshops/EKS-Workshop-5
+[submodule "EKS-Workshop-6"]
+	path = EKS-Workshop-6
+	url = https://github.com/longthg-workshops/EKS-Workshop-6
+[submodule "EKS-Workshop-7"]
+	path = EKS-Workshop-7
+	url = https://github.com/longthg-workshops/EKS-Workshop-7
+[submodule "EKS-Workshop-8"]
+	path = EKS-Workshop-8
+	url = https://github.com/longthg-workshops/EKS-Workshop-8
+[submodule "EKS-Workshop-9"]
+	path = EKS-Workshop-9
+	url = https://github.com/longthg-workshops/EKS-Workshop-9
+[submodule "EKS-Workshop-10"]
+	path = EKS-Workshop-10
+	url = https://github.com/longthg-workshops/EKS-Workshop-10
+[submodule "EKS-Workshop-11"]
+	path = EKS-Workshop-11
+	url = https://github.com/longthg-workshops/EKS-Workshop-11
